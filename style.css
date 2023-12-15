@@ -33,7 +33,7 @@ ul {
 }
 
 i {
-  color: black;
+  color:#6d597a;
   font-size: 50px;
 }
 
@@ -56,7 +56,7 @@ div {
 }
 
 .btn {
-  background-color: #eaac8b;
+  background-color: #e56b6f;
   color: white;
   text-decoration: none;
   padding: 8px 16x;
@@ -64,7 +64,7 @@ div {
 }
 
 .btn:hover {
-  background-color: #ac7a60;
+  background-color: #703739;
 }
 
 .img-circle {
